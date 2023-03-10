@@ -26,4 +26,8 @@ function change7() {
   document.getElementById("img4").src =
     "https://assets.pokemon.com/assets/cms2/img/cards/web/BW11/BW11_EN_29.png";
 }
-function 
+function change8() {
+  document.getElementById("img4").src =
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDBu9z5ytI_6IYYwAJcSSl-5cK6R6aOKXW-xRA-s5vT33JINHGMJ8-gXX-7QnzAAwAOo&usqp=CAU";
+}
+
